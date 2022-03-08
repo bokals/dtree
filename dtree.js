@@ -84,17 +84,17 @@ function dTree(objName) {
 
 	this.icon = {
 
-		root				: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+		root				: 'http://sites.google.com/site/t4belajarblogger/gambar/mycom_icon.gif',
 
-		folder			: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+		folder			: 'http://sites.google.com/site/t4belajarblogger/gambar/folder.gif',
 
 		folderOpen	: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
 
-		node				: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+		node				: 'http://sites.google.com/site/t4belajarblogger/gambar/halamanfile.gif',
 
-		empty				: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+		empty				: 'http://sites.google.com/site/t4belajarblogger/gambar/kosong.gif',
 
-		line				: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+		line				: 'http://sites.google.com/site/t4belajarblogger/gambar/garisvertikal.gif',
 
 		join				: 'http://sites.google.com/site/t4belajarblogger/gambar/cabang.gif',
 
