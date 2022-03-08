@@ -86,7 +86,7 @@ function dTree(objName) {
 
 		root		: 'https://i.imgur.com/DzIzUjd.gif',
 
-		folder			: 'http://sites.google.com/site/t4belajarblogger/gambar/folder.gif',
+		folder			: 'https://i.imgur.com/DzIzUjd.gif',
 
 		folderOpen	: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
 
