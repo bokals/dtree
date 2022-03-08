@@ -84,33 +84,33 @@ function dTree(objName) {
 
 	this.icon = {
 
-		root				: 'http://sites.google.com/site/t4belajarblogger/gambar/mycom_icon.gif',
+root		: 'https://i.imgur.com/kEm1qAJ.gif',
 
-		folder			: 'http://sites.google.com/site/t4belajarblogger/gambar/folder.gif',
+folder		: 'https://i.imgur.com/XDYgLUZ.gif',
 
-		folderOpen	: 'http://sites.google.com/site/t4belajarblogger/gambar/bukafolder.gif',
+folderOpen	: 'https://i.imgur.com/bwDfEFV.gif',
 
-		node				: 'http://sites.google.com/site/t4belajarblogger/gambar/halamanfile.gif',
+node		: 'https://i.imgur.com/7KEnn6T.gif',
 
-		empty				: 'http://sites.google.com/site/t4belajarblogger/gambar/kosong.gif',
+empty		: 'https://i.imgur.com/9QUsyZ6.gif',
 
-		line				: 'http://sites.google.com/site/t4belajarblogger/gambar/garisvertikal.gif',
+line		: 'https://i.imgur.com/BYN7Avc.gif',
 
-		join				: 'http://sites.google.com/site/t4belajarblogger/gambar/cabang.gif',
+join		: 'https://i.imgur.com/zdbw4qD.gif',
 
-		joinBottom	: 'http://sites.google.com/site/t4belajarblogger/gambar/tombolcabang.gif',
+joinBottom	: 'https://i.imgur.com/47DKGby.gif',
 
-		plus				: 'http://sites.google.com/site/t4belajarblogger/gambar/tandatambah.gif',
+plus		: 'https://i.imgur.com/7GZKs2U.gif',
 
-		plusBottom	: 'http://sites.google.com/site/t4belajarblogger/gambar/tambahkebuka.gif',
+plusBottom	: 'https://i.imgur.com/x1f9CUY.gif',
 
-		minus				: 'http://sites.google.com/site/t4belajarblogger/gambar/kurang.gif',
+minus		: 'https://i.imgur.com/uY3yua8.gif',
 
-		minusBottom	: 'http://sites.google.com/site/t4belajarblogger/gambar/tombolkurang.gif',
+minusBottom	: 'https://i.imgur.com/4Xt6HAl.gif',
 
-		nlPlus			: 'http://sites.google.com/site/t4belajarblogger/gambar/tambahsaja.gif',
+nlPlus		: 'https://i.imgur.com/hmJrid8.gif',
 
-		nlMinus			: 'http://sites.google.com/site/t4belajarblogger/gambar/kurangsaja.gif'
+nlMinus		: 'https://i.imgur.com/P47s419.gif'
 
 	};
 
