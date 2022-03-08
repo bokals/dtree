@@ -84,7 +84,7 @@ function dTree(objName) {
 
 	this.icon = {
 
-		root		: 'https://i.imgur.com/DzIzUjd.gif',
+		root		: 'https://sites.google.com/site/123boks/menu/folderopen.gif',
 
 		folder			: 'https://i.imgur.com/DzIzUjd.gif',
 
